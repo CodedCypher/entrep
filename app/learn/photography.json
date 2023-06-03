@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Digital Photography Fundamentals: Mastering the Basics",
+		"author": "Emily Johnson",
+		"about": "Professional photographer with a passion for teaching beginners; Helped numerous individuals develop their photography skills.",
+		"price": "99$",
+		"best_seller": false,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "12 hours"
+	},
+	{
+		"title": "Portrait Photography: Capturing Stunning Portraits",
+		"author": "Michael Thompson",
+		"about": "Portrait photographer with experience in capturing emotive and compelling portraits; Featured in photography magazines.",
+		"price": "89$",
+		"best_seller": true,
+		"rating": 4.6,
+		"rated_count": 150,
+		"duration": "10 hours"
+	},
+	{
+		"title": "Landscape Photography: Exploring Nature's Beauty",
+		"author": "David Wilson",
+		"about": "Landscape photographer with a passion for capturing breathtaking natural landscapes; Published in travel magazines.",
+		"price": "79$",
+		"best_seller": false,
+		"rating": 4.4,
+		"rated_count": 100,
+		"duration": "8 hours"
+	},
+	{
+		"title": "Street Photography: Capturing the Essence of the Streets",
+		"author": "Sophia Davis",
+		"about": "Street photographer with a knack for capturing candid moments in urban environments; Recognized in photography exhibitions.",
+		"price": "69$",
+		"best_seller": false,
+		"rating": 4.3,
+		"rated_count": 80,
+		"duration": "6 hours"
+	},
+	{
+		"title": "Product Photography: Showcasing Products in the Best Light",
+		"author": "Robert Anderson",
+		"about": "Product photographer with experience in creating stunning visuals that highlight the unique features of various products.",
+		"price": "89$",
+		"best_seller": false,
+		"rating": 4.7,
+		"rated_count": 200,
+		"duration": "14 hours"
+	},
+	{
+		"title": "Black and White Photography: Mastering Monochrome",
+		"author": "Olivia Thompson",
+		"about": "Black and white photography enthusiast; Known for capturing timeless and evocative images in monochrome.",
+		"price": "99$",
+		"best_seller": true,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "12 hours"
+	},
+	{
+		"title": "Wildlife Photography: Capturing Nature's Wonders",
+		"author": "Jacob Wilson",
+		"about": "Wildlife photographer with a passion for documenting the beauty and diversity of the natural world; Published in nature magazines.",
+		"price": "109$",
+		"best_seller": false,
+		"rating": 4.8,
+		"rated_count": 250,
+		"duration": "16 hours"
+	},
+	{
+		"title": "Wedding Photography: Capturing Love and Memories",
+		"author": "Jessica Thompson",
+		"about": "Wedding photographer with a talent for capturing the joy and emotions of special moments; Featured in bridal publications.",
+		"price": "89$",
+		"best_seller": false,
+		"rating": 4.6,
+		"rated_count": 150,
+		"duration": "10 hours"
+	}
+]

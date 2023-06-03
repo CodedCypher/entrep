@@ -1,0 +1,117 @@
+[
+	{
+		"module": "Introduction to Programming",
+		"timeToComplete": "2 hour",
+		"lectures": 3,
+		"topics": [
+			"Understanding programming paradigms",
+			"Overview of programming languages",
+			"Setting up a development environment"
+		]
+	},
+	{
+		"module": "Programming Basics",
+		"timeToComplete": "1.5 hour",
+		"lectures": 4,
+		"topics": [
+			"Variables, data types, and operators",
+			"Control flow statements (conditionals and loops)",
+			"Functions and modular programming"
+		]
+	},
+	{
+		"module": "Data Structures and Algorithms",
+		"timeToComplete": "2 hour",
+		"lectures": 5,
+		"topics": [
+			"Arrays and lists",
+			"Stacks and queues",
+			"Recursion and recursive algorithms",
+			"Sorting and searching algorithms"
+		]
+	},
+	{
+		"module": "Object-Oriented Programming",
+		"timeToComplete": "2 hour",
+		"lectures": 4,
+		"topics": [
+			"Introduction to object-oriented concepts",
+			"Classes, objects, and inheritance",
+			"Polymorphism and encapsulation",
+			"Design principles (SOLID)"
+		]
+	},
+	{
+		"module": "File Handling and Input/Output",
+		"timeToComplete": "1 hour",
+		"lectures": 3,
+		"topics": [
+			"Reading from and writing to files",
+			"Exception handling",
+			"Command-line arguments and user input"
+		]
+	},
+	{
+		"module": "Debugging and Testing",
+		"timeToComplete": "1 hour",
+		"lectures": 2,
+		"topics": ["Debugging techniques and strategies", "Unit testing and test-driven development"]
+	},
+	{
+		"module": "Web Development Basics",
+		"timeToComplete": "2 hour",
+		"lectures": 3,
+		"topics": [
+			"Introduction to HTML and CSS",
+			"Basics of client-side scripting (JavaScript)",
+			"Introduction to server-side programming (e.g., Python, Node.js)"
+		]
+	},
+	{
+		"module": "Databases and SQL",
+		"timeToComplete": "1.5 hour",
+		"lectures": 2,
+		"topics": [
+			"Introduction to databases and relational models",
+			"SQL fundamentals (querying, modifying, joining tables)"
+		]
+	},
+	{
+		"module": "Version Control and Collaboration",
+		"timeToComplete": "1 hour",
+		"lectures": 3,
+		"topics": [
+			"Introduction to Git and GitHub",
+			"Collaborative development workflows",
+			"Code review and team collaboration"
+		]
+	},
+	{
+		"module": "Introduction to Data Structures and Algorithms",
+		"timeToComplete": "2 hour",
+		"lectures": 4,
+		"topics": [
+			"More advanced data structures (linked lists, trees, graphs)",
+			"Advanced algorithms (dynamic programming, graph algorithms)"
+		]
+	},
+	{
+		"module": "Software Development Best Practices",
+		"timeToComplete": "1 hour",
+		"lectures": 3,
+		"topics": [
+			"Code documentation and commenting",
+			"Code optimization and performance considerations",
+			"Software development life cycle (SDLC) overview"
+		]
+	},
+	{
+		"module": "Introduction to Frameworks and Libraries",
+		"timeToComplete": "1 hour",
+		"lectures": 2,
+		"topics": [
+			"Overview of popular programming frameworks and libraries",
+			"Introduction to API integration and usage"
+		]
+	}
+]

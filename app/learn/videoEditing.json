@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Video Editing Fundamentals: Introduction to Editing",
+		"author": "Emily Johnson",
+		"about": "Experienced video editor with a passion for teaching the fundamentals of video editing; Worked on various film and video projects.",
+		"price": "99$",
+		"best_seller": true,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "12 hours"
+	},
+	{
+		"title": "Advanced Video Editing Techniques: Enhancing Your Editing Skills",
+		"author": "Michael Thompson",
+		"about": "Video editing expert with expertise in advanced editing techniques; Worked on high-profile video editing projects.",
+		"price": "89$",
+		"best_seller": false,
+		"rating": 4.6,
+		"rated_count": 150,
+		"duration": "10 hours"
+	},
+	{
+		"title": "Color Grading: Enhancing Visual Aesthetics",
+		"author": "David Wilson",
+		"about": "Color grading specialist with a focus on enhancing the visual aesthetics of videos; Worked on visually stunning video projects.",
+		"price": "79$",
+		"best_seller": false,
+		"rating": 4.4,
+		"rated_count": 100,
+		"duration": "8 hours"
+	},
+	{
+		"title": "Motion Graphics: Creating Dynamic Visuals",
+		"author": "Sophia Davis",
+		"about": "Motion graphics designer with expertise in creating dynamic visuals; Worked on motion graphics projects for various clients.",
+		"price": "69$",
+		"best_seller": false,
+		"rating": 4.3,
+		"rated_count": 80,
+		"duration": "6 hours"
+	},
+	{
+		"title": "Video Effects: Adding Impact to Your Videos",
+		"author": "Robert Anderson",
+		"about": "Video effects specialist with a focus on adding impactful effects to videos; Worked on visually striking video projects.",
+		"price": "89$",
+		"best_seller": true,
+		"rating": 4.7,
+		"rated_count": 200,
+		"duration": "14 hours"
+	},
+	{
+		"title": "Audio Editing for Video: Perfecting Soundtracks",
+		"author": "Olivia Thompson",
+		"about": "Audio editor with expertise in perfecting soundtracks for videos; Worked on audio editing projects for film and video.",
+		"price": "99$",
+		"best_seller": true,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "12 hours"
+	},
+	{
+		"title": "Video Transitions: Seamless Scene Transfers",
+		"author": "Jacob Wilson",
+		"about": "Video editor and transition specialist with a focus on creating seamless scene transitions in videos.",
+		"price": "109$",
+		"best_seller": false,
+		"rating": 4.8,
+		"rated_count": 250,
+		"duration": "16 hours"
+	},
+	{
+		"title": "Editing for Social Media: Optimizing Videos for Online Platforms",
+		"author": "Jessica Thompson",
+		"about": "Video editor with expertise in optimizing videos for social media platforms; Worked on video editing projects for online content.",
+		"price": "89$",
+		"best_seller": false,
+		"rating": 4.6,
+		"rated_count": 150,
+		"duration": "10 hours"
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Finance Fundamentals: Understanding the Basics",
+		"author": "Emily Johnson",
+		"about": "Finance expert with a passion for teaching finance principles to beginners; Worked in the finance industry for several years.",
+		"price": "99$",
+		"best_seller": false,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "12 hours"
+	},
+	{
+		"title": "Investment Strategies: Maximizing Returns",
+		"author": "Michael Thompson",
+		"about": "Experienced investor with expertise in developing and implementing effective investment strategies; Achieved significant returns.",
+		"price": "89$",
+		"best_seller": false,
+		"rating": 4.6,
+		"rated_count": 150,
+		"duration": "10 hours"
+	},
+	{
+		"title": "Financial Planning: Building a Strong Financial Future",
+		"author": "David Wilson",
+		"about": "Certified financial planner with a focus on helping individuals and families develop comprehensive financial plans.",
+		"price": "79$",
+		"best_seller": true,
+		"rating": 4.4,
+		"rated_count": 100,
+		"duration": "8 hours"
+	},
+	{
+		"title": "Corporate Finance: Managing Finances in Business",
+		"author": "Sophia Davis",
+		"about": "Finance professional with experience in corporate finance; Worked in finance roles in leading organizations.",
+		"price": "69$",
+		"best_seller": false,
+		"rating": 4.3,
+		"rated_count": 80,
+		"duration": "6 hours"
+	},
+	{
+		"title": "Financial Analysis: Evaluating Company Performance",
+		"author": "Robert Anderson",
+		"about": "Financial analyst with expertise in analyzing company performance and making informed investment decisions.",
+		"price": "89$",
+		"best_seller": true,
+		"rating": 4.7,
+		"rated_count": 200,
+		"duration": "14 hours"
+	},
+	{
+		"title": "Personal Finance: Managing Money for Financial Success",
+		"author": "Olivia Thompson",
+		"about": "Personal finance expert with a focus on helping individuals achieve financial success through effective money management.",
+		"price": "99$",
+		"best_seller": false,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "12 hours"
+	},
+	{
+		"title": "Financial Modeling: Building Excel-based Financial Models",
+		"author": "Jacob Wilson",
+		"about": "Financial modeling specialist with expertise in building complex financial models using Microsoft Excel.",
+		"price": "109$",
+		"best_seller": false,
+		"rating": 4.8,
+		"rated_count": 250,
+		"duration": "16 hours"
+	},
+	{
+		"title": "Risk Management: Mitigating Financial Risks",
+		"author": "Jessica Thompson",
+		"about": "Risk management professional with a focus on identifying and mitigating financial risks in various industries.",
+		"price": "89$",
+		"best_seller": false,
+		"rating": 4.6,
+		"rated_count": 150,
+		"duration": "10 hours"
+	}
+]

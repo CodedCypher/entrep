@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Digital Marketing Mastery: Strategies for Success",
+		"author": "Sarah Johnson",
+		"about": "Digital marketing expert with 10+ years of experience; Founder of a successful digital agency; Featured in Forbes and Business Insider.",
+		"price": "99$",
+		"best_seller": true,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "12 hours"
+	},
+	{
+		"title": "Social Media Marketing: Building Brand Awareness",
+		"author": "Emily Adams",
+		"about": "Social media strategist with a focus on brand building; Helped numerous businesses establish a strong social media presence.",
+		"price": "89$",
+		"best_seller": true,
+		"rating": 4.6,
+		"rated_count": 150,
+		"duration": "10 hours"
+	},
+	{
+		"title": "Content Marketing Fundamentals: Creating Engaging Content",
+		"author": "Michael Thompson",
+		"about": "Content marketing specialist; Developed successful content strategies for both B2B and B2C companies.",
+		"price": "79$",
+		"best_seller": true,
+		"rating": 4.4,
+		"rated_count": 100,
+		"duration": "8 hours"
+	},
+	{
+		"title": "Email Marketing: Effective Strategies for Growth",
+		"author": "Jessica Anderson",
+		"about": "Email marketing guru; Helped businesses achieve higher open and click-through rates; Published in industry-leading blogs.",
+		"price": "69$",
+		"best_seller": false,
+		"rating": 4.3,
+		"rated_count": 80,
+		"duration": "6 hours"
+	},
+	{
+		"title": "Search Engine Optimization (SEO): Rank Higher in Search Results",
+		"author": "Daniel Wilson",
+		"about": "SEO specialist with a proven track record; Helped websites achieve top rankings in competitive niches.",
+		"price": "89$",
+		"best_seller": true,
+		"rating": 4.7,
+		"rated_count": 200,
+		"duration": "14 hours"
+	},
+	{
+		"title": "Influencer Marketing: Strategies for Effective Collaboration",
+		"author": "Sophia Rodriguez",
+		"about": "Influencer marketing expert; Helped brands leverage the power of influencers to reach a wider audience.",
+		"price": "99$",
+		"best_seller": true,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "12 hours"
+	},
+	{
+		"title": "Google Ads Mastery: Drive Quality Traffic to Your Website",
+		"author": "Robert Davis",
+		"about": "Google Ads certified professional; Managed successful ad campaigns for various businesses.",
+		"price": "109$",
+		"best_seller": true,
+		"rating": 4.8,
+		"rated_count": 250,
+		"duration": "16 hours"
+	},
+	{
+		"title": "Brand Management: Building and Sustaining a Strong Brand",
+		"author": "Michelle Thompson",
+		"about": "Brand management expert; Assisted companies in establishing and maintaining a compelling brand identity.",
+		"price": "89$",
+		"best_seller": false,
+		"rating": 4.6,
+		"rated_count": 150,
+		"duration": "10 hours"
+	}
+]

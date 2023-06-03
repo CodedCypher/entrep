@@ -1,0 +1,32 @@
+[
+	{
+		"commission": "short stories",
+		"author": "annarabella grumble",
+		"price": "$50"
+	},
+	{
+		"commission": "illustrations",
+		"author": "lucas sanchez",
+		"price": "$80"
+	},
+	{
+		"commission": "logo design",
+		"author": "emily thompson",
+		"price": "$120"
+	},
+	{
+		"commission": "custom portraits",
+		"author": "benjamin roberts",
+		"price": "$150"
+	},
+	{
+		"commission": "web development",
+		"author": "sophia lee",
+		"price": "$300"
+	},
+	{
+		"commission": "social media marketing strategy",
+		"author": "alex turner",
+		"price": "$200"
+	}
+]

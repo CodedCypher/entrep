@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Python Programming: From Basics to Advanced",
+		"author": "John Smith",
+		"about": "Python expert with 15+ years of experience; Instructor at leading coding bootcamp; Co-author of a popular Python book.",
+		"price": "79$",
+		"best_seller": true,
+		"rating": 4.8,
+		"rated_count": 250,
+		"duration": "20 hours"
+	},
+	{
+		"title": "JavaScript Fundamentals: Mastering the Basics",
+		"author": "Emily Adams",
+		"about": "Front-end developer with a passion for teaching; Contributed to major JavaScript frameworks; TEDx speaker.",
+		"price": "69$",
+		"best_seller": false,
+		"rating": 4.4,
+		"rated_count": 80,
+		"duration": "10 hours"
+	},
+	{
+		"title": "Java Programming: Object-Oriented Concepts",
+		"author": "Michael Thompson",
+		"about": "Experienced software engineer; Worked on enterprise-level Java applications; Mentor at coding communities.",
+		"price": "89$",
+		"best_seller": true,
+		"rating": 4.7,
+		"rated_count": 150,
+		"duration": "15 hours"
+	},
+	{
+		"title": "C++ for Beginners: A Comprehensive Guide",
+		"author": "Jessica Anderson",
+		"about": "Software developer and educator; Passionate about making programming accessible; YouTube channel with 100k+ subscribers.",
+		"price": "59$",
+		"best_seller": true,
+		"rating": 4.6,
+		"rated_count": 200,
+		"duration": "12 hours"
+	},
+	{
+		"title": "Full Stack Web Development with Node.js and React",
+		"author": "Daniel Wilson",
+		"about": "Full-stack developer specializing in Node.js and React; Co-founder of a successful web development agency.",
+		"price": "129$",
+		"best_seller": false,
+		"rating": 4.3,
+		"rated_count": 90,
+		"duration": "18 hours"
+	},
+	{
+		"title": "Ruby on Rails: Building Web Applications",
+		"author": "Sophia Rodriguez",
+		"about": "Experienced Ruby on Rails developer; Contributed to open-source projects; Passionate about clean code.",
+		"price": "99$",
+		"best_seller": true,
+		"rating": 4.9,
+		"rated_count": 300,
+		"duration": "25 hours"
+	},
+	{
+		"title": "Data Structures and Algorithms in Python",
+		"author": "Robert Davis",
+		"about": "Computer science professor; Published multiple research papers; Expert in algorithmic problem-solving.",
+		"price": "109$",
+		"best_seller": true,
+		"rating": 4.7,
+		"rated_count": 180,
+		"duration": "20 hours"
+	},
+	{
+		"title": "Mobile App Development with Flutter",
+		"author": "Michelle Thompson",
+		"about": "Mobile app developer with a focus on Flutter; Developed apps featured in app stores; Conference speaker.",
+		"price": "89$",
+		"best_seller": false,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "15 hours"
+	}
+]

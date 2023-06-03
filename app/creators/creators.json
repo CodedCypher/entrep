@@ -1,0 +1,97 @@
+[
+	{
+		"name": "Sophia Gallagher",
+		"followers": "67",
+		"about": "Hi there! I'm Sophia Gallagher, a wildlife photographer and content creator passionate about capturing the beauty of nature.",
+		"jobTitle": "Photographer",
+		"gold": true
+	},
+
+	{
+		"name": "Maxwell Blake",
+		"followers": "128",
+		"about": "Hey everyone! I'm Maxwell Blake, a fitness enthusiast and certified personal trainer sharing tips and motivation for a healthy lifestyle.",
+		"jobTitle": "Fitness Trainer",
+		"gold": false
+	},
+
+	{
+		"name": "Ava Nguyen",
+		"followers": "91",
+		"about": "Hello, I'm Ava Nguyen! I create art with a focus on watercolor paintings and illustrations inspired by nature and emotions.",
+		"jobTitle": "Artist",
+		"gold": true
+	},
+
+	{
+		"name": "Nathan Patel",
+		"followers": "53",
+		"about": "Hey, I'm Nathan Patel, a travel blogger and adventure seeker exploring hidden gems around the world. Join me on my journeys!",
+		"jobTitle": "Travel Blogger",
+		"gold": false
+	},
+
+	{
+		"name": "Zara Thompson",
+		"followers": "76",
+		"about": "Hi, I'm Zara Thompson, a DIY enthusiast and interior design lover. Let's create beautiful spaces together on a budget!",
+		"jobTitle": "DIY Creator",
+		"gold": false
+	},
+
+	{
+		"name": "Ethan Richardson",
+		"followers": "39",
+		"about": "Hey, I'm Ethan Richardson, a tech reviewer and gadget geek. Join me as I explore the latest tech innovations and share my thoughts.",
+		"jobTitle": "Tech Reviewer",
+		"gold": true
+	},
+
+	{
+		"name": "Lily Chen",
+		"followers": "113",
+		"about": "Hello, I'm Lily Chen! I'm a food enthusiast and recipe developer, sharing delicious and easy-to-make dishes from around the world.",
+		"jobTitle": "Food Blogger",
+		"gold": false
+	},
+
+	{
+		"name": "Henry Wright",
+		"followers": "84",
+		"about": "Hi, I'm Henry Wright, a fashion lover and style influencer. Join me as I curate trendy outfits and share fashion tips for all seasons.",
+		"jobTitle": "Fashion Influencer",
+		"gold": true
+	},
+
+	{
+		"name": "Isabella Baker",
+		"followers": "62",
+		"about": "Hey there! I'm Isabella Baker, a pet lover and animal advocate. Follow my journey as I raise awareness about animal welfare and share heartwarming stories.",
+		"jobTitle": "Animal Activist",
+		"gold": true
+	},
+
+	{
+		"name": "Oliver Reed",
+		"followers": "47",
+		"about": "Hello, I'm Oliver Reed, a music enthusiast and guitar player. Join me as I share covers, original compositions, and tips for aspiring musicians.",
+		"jobTitle": "Musician",
+		"gold": false
+	},
+
+	{
+		"name": "Mia Foster",
+		"followers": "56",
+		"about": "Hi everyone, I'm Mia Foster! I'm a bookworm and literature lover. Join me as I discuss my favorite reads and recommend captivating stories.",
+		"jobTitle": "Book Reviewer",
+		"gold": false
+	},
+
+	{
+		"name": "Lucas Mitchell",
+		"followers": "73",
+		"about": "Hey, I'm Lucas Mitchell, a filmmaker and storyteller. Follow my creative journey as I capture captivating moments and share inspiring visual narratives.",
+		"jobTitle": "Filmmaker",
+		"gold": true
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Graphic Design Essentials: Fundamentals for Beginners",
+		"author": "Emily Johnson",
+		"about": "Experienced graphic designer with a passion for teaching design principles to beginners; Worked on numerous design projects.",
+		"price": "99$",
+		"best_seller": true,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "12 hours"
+	},
+	{
+		"title": "UI/UX Design: Creating Engaging User Experiences",
+		"author": "Michael Thompson",
+		"about": "UI/UX designer with a focus on creating intuitive and engaging user experiences; Worked on successful design projects.",
+		"price": "89$",
+		"best_seller": true,
+		"rating": 4.6,
+		"rated_count": 150,
+		"duration": "10 hours"
+	},
+	{
+		"title": "Web Design: Building Beautiful and Responsive Websites",
+		"author": "David Wilson",
+		"about": "Web designer with experience in creating visually appealing and responsive websites; Worked with clients across various industries.",
+		"price": "79$",
+		"best_seller": true,
+		"rating": 4.4,
+		"rated_count": 100,
+		"duration": "8 hours"
+	},
+	{
+		"title": "Motion Graphics: Creating Animated Visuals",
+		"author": "Sophia Davis",
+		"about": "Motion graphics designer with expertise in creating captivating animated visuals for videos and presentations.",
+		"price": "69$",
+		"best_seller": false,
+		"rating": 4.3,
+		"rated_count": 80,
+		"duration": "6 hours"
+	},
+	{
+		"title": "Logo Design: Crafting Memorable Brand Identities",
+		"author": "Robert Anderson",
+		"about": "Logo designer with a talent for creating memorable and impactful brand identities; Worked with a diverse range of clients.",
+		"price": "89$",
+		"best_seller": true,
+		"rating": 4.7,
+		"rated_count": 200,
+		"duration": "14 hours"
+	},
+	{
+		"title": "Illustration: Mastering Digital Drawing Techniques",
+		"author": "Olivia Thompson",
+		"about": "Illustrator with expertise in digital drawing techniques; Known for creating visually stunning and expressive illustrations.",
+		"price": "99$",
+		"best_seller": true,
+		"rating": 4.5,
+		"rated_count": 120,
+		"duration": "12 hours"
+	},
+	{
+		"title": "Packaging Design: Creating Eye-catching Product Packaging",
+		"author": "Jacob Wilson",
+		"about": "Packaging designer with a focus on creating visually appealing and functional packaging for various products.",
+		"price": "109$",
+		"best_seller": true,
+		"rating": 4.8,
+		"rated_count": 250,
+		"duration": "16 hours"
+	},
+	{
+		"title": "Typography: Fundamentals of Beautiful and Effective Type",
+		"author": "Jessica Thompson",
+		"about": "Typography enthusiast with a deep understanding of type design principles; Worked on typography projects for clients.",
+		"price": "89$",
+		"best_seller": false,
+		"rating": 4.6,
+		"rated_count": 150,
+		"duration": "10 hours"
+	}
+]
