@@ -12,7 +12,6 @@ import {
 	Button,
 	Spinner,
 } from "@chakra-ui/react";
-import Slider from "react-slick";
 import { faker } from "@faker-js/faker";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
