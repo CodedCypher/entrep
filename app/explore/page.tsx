@@ -20,10 +20,9 @@ import {
 import { AiOutlineSearch } from "react-icons/ai";
 import Link from "next/link";
 import dynamic from "next/dynamic";
-
-const Comissions = dynamic(() => import("./comissions"), { loading: () => <Spinner size="xl" /> });
-const Courses = dynamic(() => import("./courses"), { loading: () => <Spinner size="xl" /> });
-const Creators = dynamic(() => import("./creators"), { loading: () => <Spinner size="xl" /> });
+import Comissions from "./comissions";
+import Courses from "./courses";
+import Creators from "./creators";
 
 export const creatorTags = [
 	"Online Tutoring",

@@ -28,14 +28,17 @@ export default function Navbar() {
 						<Link href="/explore">
 							<Button variant="ghost">Explore</Button>
 						</Link>
+						<Link href="/comissions">
+							<Button variant="ghost">Comissions</Button>
+						</Link>
+						<Link href="/creators">
+							<Button variant="ghost">Creators</Button>
+						</Link>
 						<Link href="/learn">
 							<Button variant="ghost">Learn</Button>
 						</Link>
 						<Link href="/about">
 							<Button variant="ghost">About</Button>
-						</Link>
-						<Link href="/contact">
-							<Button variant="ghost">Contact Us</Button>
 						</Link>
 					</Flex>
 					<Flex gap={3}>
