@@ -29,7 +29,7 @@ export default function Navbar() {
 							<Button variant="ghost">Explore</Button>
 						</Link>
 						<Link href="/comissions">
-							<Button variant="ghost">Comissions</Button>
+							<Button variant="ghost">Commissions</Button>
 						</Link>
 						<Link href="/creators">
 							<Button variant="ghost">Creators</Button>
